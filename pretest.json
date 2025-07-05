@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Faraday's laws of electrolysis are related to the",
+      "answers": {
+        "a": "atomic number of the anion",
+        "b": "atomic number of the cation",
+        "c": "speed of the cation",
+        "d": "equivalent weight of the electrolysis"
+      },
+      "explanations": {
+        "a": "Faraday's laws do not relate to atomic number but to the amount of substance deposited.",
+        "b": "Atomic number isn't used directly in Faraday’s law.",
+        "c": "Speed of cation does not determine quantity deposited.",
+        "d": "Correct. Faraday’s laws relate to the equivalent weight. <a href='https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis'>Learn more</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "With increasing voltage, the sequence of deposition of metals on the cathode will be:",
+      "answers": {
+        "a": "Mg,Cu,Hg,Ag",
+        "b": "Ag,Hg,Cu,Mg",
+        "c": "Ag,Hg,Cu",
+        "d": "Cu,Hg,Ag"
+      },
+      "explanations": {
+        "a": "Incorrect order of deposition potentials.",
+        "b": "Correct. Metals with higher reduction potentials deposit first. <a href='https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Electrochemistry'>Details here</a>",
+        "c": "This option is incomplete.",
+        "d": "Incorrect order."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}

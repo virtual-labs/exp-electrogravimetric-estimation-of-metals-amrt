@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The electric charge or electrode deposition of one gram equivalent of a substance is:",
+      "answers": {
+        "a": "One ampere for one second",
+        "b": "One ampere for one hour",
+        "c": "Charge on one mole of electrons",
+        "d": "96,500 coulombs per second"
+      },
+      "explanations": {
+        "a": "Too small. This is only 1 Coulomb.",
+        "b": "Incorrect. Not equivalent to one Faraday.",
+        "c": "Correct. One mole of electrons equals 96,500 C. <a href='https://en.wikipedia.org/wiki/Faraday_constant'>See here</a>",
+        "d": "Incorrect unit. It’s 96,500 Coulombs total, not per second."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What happens to the oxidizing agent in an oxidation-reduction reaction?",
+      "answers": {
+        "a": "It is reduced as it gains electrons",
+        "b": "It is oxidized as it gains electrons",
+        "c": "It is reduced as it loses electrons",
+        "d": "It is oxidized as it loses electrons"
+      },
+      "explanations": {
+        "a": "Correct. Oxidizing agents gain electrons and are reduced. <a href='https://www.chemguide.co.uk/redox/definitions.html'>More info</a>",
+        "b": "Gaining electrons is reduction, not oxidation.",
+        "c": "Losing electrons is oxidation, not reduction.",
+        "d": "This is true for reducing agents, not oxidizing agents."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is true for an electrolytic cell?",
+      "answers": {
+        "a": "Electrons flow towards the anode",
+        "b": "Electrons flow through the salt bridge",
+        "c": "An electric current is produced by a chemical reaction",
+        "d": "A nonspontaneous reaction is forced to occur"
+      },
+      "explanations": {
+        "a": "Electrons actually flow toward the cathode.",
+        "b": "Salt bridge allows ion flow, not electrons.",
+        "c": "This is true for galvanic cells, not electrolytic cells.",
+        "d": "Correct. Electrolytic cells drive nonspontaneous reactions using electricity. <a href='https://byjus.com/chemistry/electrolytic-cell/'>Learn more</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
