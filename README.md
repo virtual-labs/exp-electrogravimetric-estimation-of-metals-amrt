@@ -3,12 +3,12 @@
 
 <b>Discipline | <b> Chemical Sciences
 :--|:--|
-<b> Lab | <b> Advanced Analytical Chemistry Virtual Lab
+<b> Lab | <b> Electrogravimetric Estimation of Metals
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To apply Faradays law in the electrolytic reduction of metal ions from solutions.
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
