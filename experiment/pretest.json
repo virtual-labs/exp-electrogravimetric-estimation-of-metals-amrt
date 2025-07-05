@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Faraday's laws of electrolysis are related to the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "atomic number of the anion",
+        "b": "atomic number of the cation",
+        "c": "speed of the cation",
+        "d": "equivalent weight of the electrolysis"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Faraday's laws do not relate to atomic number but to the amount of substance deposited.",
+        "b": "Atomic number isn't used directly in Faraday’s law.",
+        "c": "Speed of cation does not determine quantity deposited.",
+        "d": "Correct. Faraday’s laws relate to the equivalent weight. <a href='https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis'>Learn more</a>"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "With increasing voltage, the sequence of deposition of metals on the cathode will be:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mg,Cu,Hg,Ag",
+        "b": "Ag,Hg,Cu,Mg",
+        "c": "Ag,Hg,Cu",
+        "d": "Cu,Hg,Ag"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect order of deposition potentials.",
+        "b": "Correct. Metals with higher reduction potentials deposit first. <a href='https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Electrochemistry'>Details here</a>",
+        "c": "This option is incomplete.",
+        "d": "Incorrect order."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
