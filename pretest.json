@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Faraday's laws of electrolysis are related to the",
+      "answers": {
+        "a": "atomic number of the anion",
+        "b": "atomic number of the cation",
+        "c": "speed of the cation",
+        "d": "equivalent weight of the electrolysis"
+      },
+      "explanations": {
+        "a": "Faraday's laws do not relate to atomic number but to the amount of substance deposited.",
+        "b": "Atomic number isn't used directly in Faraday’s law.",
+        "c": "Speed of cation does not determine quantity deposited.",
+        "d": "Correct. Faraday’s laws relate to the equivalent weight. <a href='https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis'>Learn more</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "With increasing voltage, the sequence of deposition of metals on the cathode will be:",
+      "answers": {
+        "a": "Mg,Cu,Hg,Ag",
+        "b": "Ag,Hg,Cu,Mg",
+        "c": "Ag,Hg,Cu",
+        "d": "Cu,Hg,Ag"
+      },
+      "explanations": {
+        "a": "Incorrect order of deposition potentials.",
+        "b": "Correct. Metals with higher reduction potentials deposit first. <a href='https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Electrochemistry/Electrochemistry'>Details here</a>",
+        "c": "This option is incomplete.",
+        "d": "Incorrect order."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+     {
+      "question": "The electric charge or electrode deposition of one gram equivalent of a substance is:",
+      "answers": {
+        "a": "One ampere for one second",
+        "b": "One ampere for one hour",
+        "c": "Charge on one mole of electrons",
+        "d": "96,500 coulombs per second"
+      },
+      "explanations": {
+        "a": "Too small. This is only 1 Coulomb.",
+        "b": "Incorrect. Not equivalent to one Faraday.",
+        "c": "Correct. One mole of electrons equals 96,500 C. <a href='https://en.wikipedia.org/wiki/Faraday_constant'>See here</a>",
+        "d": "Incorrect unit. It’s 96,500 Coulombs total, not per second."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What happens to the oxidizing agent in an oxidation-reduction reaction?",
+      "answers": {
+        "a": "It is reduced as it gains electrons",
+        "b": "It is oxidized as it gains electrons",
+        "c": "It is reduced as it loses electrons",
+        "d": "It is oxidized as it loses electrons"
+      },
+      "explanations": {
+        "a": "Correct. Oxidizing agents gain electrons and are reduced. <a href='https://www.chemguide.co.uk/redox/definitions.html'>More info</a>",
+        "b": "Gaining electrons is reduction, not oxidation.",
+        "c": "Losing electrons is oxidation, not reduction.",
+        "d": "This is true for reducing agents, not oxidizing agents."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is true for an electrolytic cell?",
+      "answers": {
+        "a": "Electrons flow towards the anode",
+        "b": "Electrons flow through the salt bridge",
+        "c": "An electric current is produced by a chemical reaction",
+        "d": "A nonspontaneous reaction is forced to occur"
+      },
+      "explanations": {
+        "a": "Electrons actually flow toward the cathode.",
+        "b": "Salt bridge allows ion flow, not electrons.",
+        "c": "This is true for galvanic cells, not electrolytic cells.",
+        "d": "Correct. Electrolytic cells drive nonspontaneous reactions using electricity. <a href='https://byjus.com/chemistry/electrolytic-cell/'>Learn more</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
